@@ -125,7 +125,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   },
                   color: Color(0xFF00a79B),
                   child: Text(
-                    'SIGN UP',
+                    'Calculate',
                     style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
