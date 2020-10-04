@@ -156,7 +156,7 @@ class _MyHomePageState extends State<MyHomePage> {
             bmiResult = null;
           });
         },
-        tooltip: 'Increment',
+        tooltip: 'reset all field',
         child: Text("Reset"),
       ),
     );
